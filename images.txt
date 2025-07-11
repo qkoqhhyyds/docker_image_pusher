@@ -1,1 +1,1 @@
---platform linux/arm64 timescale/timescaledb-ha:pg14.18-ts2.19.3-all
+timescale/timescaledb-ha:pg17.5-ts2.21.0
