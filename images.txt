@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 arm64v8/mysql:8.4.5-oraclelinux9
+rabbitmq:3.13.9-management
