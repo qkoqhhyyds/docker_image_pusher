@@ -1,1 +1,2 @@
-timescale/timescaledb-ha:pg17.5-ts2.21.0
+mysql:8.4.5
+--platform=linux/arm64/v8 
