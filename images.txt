@@ -1,1 +1,1 @@
-mysql:8.0.43-oraclelinux9
+--platform=linux/arm64 nginx:1.27.4
