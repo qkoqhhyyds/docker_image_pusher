@@ -1,1 +1,1 @@
---platform=linux/arm64 nginx:1.27.4
+--platform=linux/arm64 orientdb:3.2.7-tp3
