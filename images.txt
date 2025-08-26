@@ -1,1 +1,1 @@
---platform=linux/arm64 orientdb:3.2.7-tp3
+--platform=linux/arm64 orientdb:3.2.21-tp3
