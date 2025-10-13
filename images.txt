@@ -1,1 +1,1 @@
---platform=linux/arm64 postgres:latest
+--platform=linux/arm64 kafka:2.13_3.9.2
