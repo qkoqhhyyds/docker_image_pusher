@@ -1,1 +1,1 @@
---platform=linux/arm64 kafka:2.13_3.9.2
+--platform=linux/arm64 apache/kafka:3.9.1
