@@ -1,1 +1,1 @@
-bitnami/zookeeper:3.9
+--platform linux/amd64 bitnami/zookeeper:3.9
