@@ -1,1 +1,1 @@
- openjdk:11-jre-slim
+container-registry.oracle.com/database/free:latest
