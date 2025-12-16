@@ -1,1 +1,1 @@
- --platform=linux/amd64 mysql:8.4.7
+openjdk:11-jdk-slim
