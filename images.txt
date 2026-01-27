@@ -1,1 +1,1 @@
-eclipse-temurin:11-jdk-jammy
+--platform=linux/arm64 redis:7.2
