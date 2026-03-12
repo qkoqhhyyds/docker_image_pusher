@@ -1,1 +1,1 @@
---platform=linux/arm64 openjdk:17-jre-slim
+--platform=linux/arm64 eclipse-temurin:17-jre-jammy
